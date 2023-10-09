@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = miragaia.mariana@gmail.com
+	name = Mariana Miragaia
